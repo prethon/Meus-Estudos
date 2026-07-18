@@ -1,0 +1,1 @@
+tempoGasto = int(input)
